@@ -1,1 +1,1 @@
-# Biblioteca-Java
+Este trabalho tem por objetivo o desenvolvimento de um sistema em Java para uma biblioteca eletrônica para cadastro de clientes e livros. Permitindo um número ilimitado de cadastros, desfrutando de algumas funções, entre elas, cadastro de clientes/livros, exibir listas de clientes/livros, pesquisa de clientes/livros, edição de clientes/livros, exclusão de clientes/livros.
